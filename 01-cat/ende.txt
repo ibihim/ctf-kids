@@ -1,0 +1,11 @@
+Gratuliere! Du hast es geschafft. Dein erster Schritt zum
+erlernern der Zaubersprach bash ist gemacht und du weisst
+bereits wie du mit deinem Terminal umgehen kannst.
+
+Kleine Info am Rande: cat kommt leider nicht von Katze,
+sondern von dme englischen Wort concatenate. Wie du bestimmt
+bei genauerem hinschauen bemerkst, ist das Wort cat in der Mitte
+von conCATenate. Es heisst verketten und verknuepfen.
+Urspruenglich hat sich der Zauberer, der cat erfunden hat etwas
+anderes damit machen wollen :)
+

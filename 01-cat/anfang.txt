@@ -1,0 +1,51 @@
+Hallo,
+
+moechtest du lernen auf dem Computer zu zaubern? Dazu brauchst
+du ein Werkzeug, das einem Zauberstab gleicht: der Terminal.
+
+Doch was ist der Terminal? Der Terminal ist ein Ort an dem man
+Zaubersprueche eingeben kann und etwas bei dem Computer
+dadurch bewirkt.
+
+Zaubersprueche? Genau! Es gibt eine magische Zaubersprache
+namens bash. Wenn du diese beherrscht, kannst du wie ein Magier
+den Computer auffordern Sachen zu machen, die du von ihm willst.
+
+Du brauchst also deinen Zauberstab, den Terminal und die
+Zaubersprueche in der Sprache bash.
+
+Wenn du die Zaubersprueche eintippst wird dir auch gleich im
+Terminal das Ergebnis deines Zauberst mitgeteilt. Man sagt es
+wird in den Terminal ausgegeben.
+
+Fangen wir mit einem wichtigen Zauberwort an:
+
+    cat
+
+cat, wie das englische Wort fuer Katze. Leicht zu merken. Doch
+was kann man mit cat machen?
+
+cat gibt den Inhalt einer Datei aus. Was eine Datei ist?
+
+Nun in deinem Zauberbuch, dem Terminal, kannst du dir einen Text
+anzeigen lassen, ein Lied abspielen oder aber auch einen Film
+starten. All diese Informationen also, der Text, das Lied oder
+der Film sind irgendwo auf dem Computer gespeichert. Der Ort in
+dem all diese Dinge gespeichert werden, heissen Dateien.
+
+Der Text den du gerade liest stammt aus einer Datei.
+
+Willst du mal versuchen zu zaubern? Willst du diese Aufgabe
+erfolgreich meistern? Nun gut, dann pass ganz genau auf. Du
+wirst cat brauchen... und den Namen der Datei. Wenn du den
+Inhalt der Datei erfolgreich ausgibst, hast du es geschafft!
+
+Tippe also cat und den Namen der Datei ein. Sagen wir mal die
+Datei heisst Einhorn.txt, dann musst du folgendes eintippen:
+
+    cat Einhorn.txt
+
+Die naechste Datei heisst: ende.txt
+
+Dann probier jetzt mal aus den Inhalt dieser Datei auszugeben!
+
