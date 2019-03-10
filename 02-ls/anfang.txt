@@ -1,0 +1,18 @@
+Nun lernen wir den zweiten Zauberspruch... er heisst:
+
+    ls
+
+ls ist eine Abkuerzung fuer das englische Wort "list" und zeigt
+dir den Inhalt des Ordners an, in dem du bist.
+
+Was ein Ordner ist? Ein Ordner ist so etwas wie ein Behaelter.
+In diesem Behaelter koennen andere Ordner sein oder Dateien. Das
+heisst, ein Ordner Namens Versteck, kann einen Ordner Schatztruhe
+enthalten und eine Datei Lampe. Der Ordner Schatztruhe. kann dann
+die Datei Schokolade enthalten.
+
+Tippe einfach das Zauberwort "ls" in den Terminal und schau mal
+ob du die Datei findest, die mit 03 anfaengt. Wenn du sie
+gefunden hast, kannst du dir ja anschauen was drin ist, wenn du
+das eine Zauberwort benutzt, dass du bereits kennst!
+
